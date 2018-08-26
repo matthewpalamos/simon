@@ -11,7 +11,7 @@ let i = 0;
   if (parseInt(match[match.length - 1]) !== pattern[match.length - 1]) {
 
     alert('try again!');
-    reset()
+    stream()
 
   } else {
     play(match[match.length - 1])
