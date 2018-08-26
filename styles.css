@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+html{
+ background-image: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/retina_wood.png');
+}
+
+h1 {
+  color : #222;
+  font-family : 'Oswald';
+  text-align:center;
+  font-size: 60px;
+}
+
+[id="0"] {
+  background: #00a1f1;
+  height: 300px;
+  width: 300px;
+}
+
+[id="1"] {
+  background: #7cbb00;
+  height: 300px;
+  width: 300px;
+}
+
+[id="2"] {
+  background: #ea3e23;
+  height: 300px;
+  width: 300px;
+}
+
+[id="3"] {
+  background: #ffbb00;
+  height: 300px;
+  width: 300px;
+}
+
+[id="4"] {
+  background: #a5adb0;
+  height: 50px;
+  width: 100px;
+}
