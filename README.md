@@ -1,2 +1,2 @@
 # simon
-simon game
+Simon game based off the Electronic game created by Hasbro 
